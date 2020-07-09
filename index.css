@@ -1,0 +1,150 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+
+html {
+    font-size: 62.5%;
+    
+}
+
+body {
+    font-family: Roboto Mono;
+}
+
+#navMenu {
+    display: block;
+    height: 5%;
+    text-align: center;
+    padding: 3%;
+    margin: 0 auto;
+    font-size: 1.6rem;
+}
+
+#navPlanVisit {
+    display: inline-block;
+    width: 120px;
+    text-align: center;
+    border-style: solid;
+    border: 0px;
+    border-radius: 15px;
+    padding: 1.5%;
+    margin-right: 5%;
+    margin-left: 8%;
+    color: white;
+    background-color: #FF764E;
+}
+
+#navLearnPark {
+    display: inline-block;
+    width: 120px;
+    text-align: center;
+    border-style: solid;
+    border: 0px;
+    border-radius: 15px;
+    padding: 1.5%;
+    margin-right: 5%;
+    margin-left: 5%;
+    color: white;
+    background-color: #5ED3EB;
+}
+
+#navGetInvolved {
+    display: inline-block;
+    width: 115px;
+    text-align: center;
+    border-style: solid;
+    border: 0px;
+    border-radius: 15px;
+    padding: 1.5%;
+    margin-right: 5%;
+    margin-left: 5%;
+    color: white;
+    background-color: #FFCD69;
+}
+
+#headImg {
+    display: block;
+    border-radius: 50%;
+    margin: 2% 10% 5% 10%;
+    float: left;
+}
+
+#head {
+    display: block;
+    margin: .5% 10% .5% 10%;
+    font-weight: bold;
+    padding-top: 1%;
+}
+
+h1 {
+    font-size: 4rem;
+    font-family: Chelsea Market;
+    text-align: center;
+    padding: 3% 5% 2.5% 12%;
+}
+
+#introL {
+    text-align: center;
+    font-size: 1.5rem;
+    padding: 1% 5% 2.5% 12%;
+}
+
+#introP {
+    text-align: center;
+    font-size: 1.5rem;
+    padding: 1% 5% 2.5% 12%;
+}
+
+#content {
+    display: block;
+    text-align: center;
+    font-size: 1.5rem;
+    margin: 7% 3% 2% 3%;
+    padding: 2%;
+    background-color: #DDB9A3;
+    color: white;
+}
+
+#fireExp {
+    display: block;
+    margin-left: 40%;
+    margin-right: 40%;
+    text-align: center;
+    font-size: 1.1rem;
+}
+
+#campExp {
+    display: block;
+    margin: 4% 40% 4% 40%;
+    text-align: center;
+    font-size: 1.1rem;
+}
+
+#fDiv {
+    background-color: #F9E7DC;
+}
